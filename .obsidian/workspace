@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "a3fc8d7e4f82da9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "353ddf1c10006280",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "picoCTF - esercizi/Mind your Ps and Qs.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21debac3374864b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "088514789ffe05a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b476c5f202ae0cd6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "995a5dc62e397859",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff9e54adf43a263f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b86dbccc38c570d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd0b5fcaee031eda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "picoCTF - esercizi/Mind your Ps and Qs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "353ddf1c10006280",
+  "lastOpenFiles": [
+    "picoCTF - esercizi/Mind your Ps and Qs.md",
+    "picoCTF - esercizi/GET aHEAD.md",
+    "Utilities.md",
+    "picoCTF - esercizi/Static ain't always noise.md",
+    "picoCTF - esercizi/Stonks.md",
+    "picoCTF - esercizi/Resources/stonks-1.png",
+    "picoCTF - esercizi/Cookies.md",
+    "picoCTF - esercizi/keygenme-py.md",
+    "picoCTF - esercizi/Matryoshka doll.md",
+    "picoCTF - esercizi/Nice netcat....md"
+  ]
+}
