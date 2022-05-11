@@ -5,3 +5,7 @@
 # Folder view configuration files
 .DS_Store
 Desktop.ini
+
+# obsidian folders / files
+.obsidian/workspace
+.

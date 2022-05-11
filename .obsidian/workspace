@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "picoCTF - esercizi/Mind your Ps and Qs.md",
+            "file": "Utilities.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF - esercizi/Mind your Ps and Qs.md",
+                "file": "Utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "353ddf1c10006280",
   "lastOpenFiles": [
+    "Utilities.md",
     "picoCTF - esercizi/Mind your Ps and Qs.md",
     "picoCTF - esercizi/GET aHEAD.md",
-    "Utilities.md",
     "picoCTF - esercizi/Static ain't always noise.md",
     "picoCTF - esercizi/Stonks.md",
     "picoCTF - esercizi/Resources/stonks-1.png",
