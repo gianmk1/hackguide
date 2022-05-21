@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Utilities.md",
+            "file": "Resources.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilities.md",
+                "file": "Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "353ddf1c10006280",
   "lastOpenFiles": [
+    "Resources.md",
     "Utilities.md",
     "picoCTF - esercizi/Mind your Ps and Qs.md",
     "picoCTF - esercizi/GET aHEAD.md",
@@ -96,7 +97,6 @@
     "picoCTF - esercizi/Resources/stonks-1.png",
     "picoCTF - esercizi/Cookies.md",
     "picoCTF - esercizi/keygenme-py.md",
-    "picoCTF - esercizi/Matryoshka doll.md",
-    "picoCTF - esercizi/Nice netcat....md"
+    "picoCTF - esercizi/Matryoshka doll.md"
   ]
 }
