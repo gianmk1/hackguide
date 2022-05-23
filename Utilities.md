@@ -38,6 +38,9 @@
 ## Database
 - [SQLmap](https://github.com/sqlmapproject/sqlmap)
 
+## OSINT
+- [Osintgram](https://github.com/Datalux/Osintgram)
+
 ## Others
 - [FactorDB](http://factordb.com/index.php)
 - [Impacket](https://github.com/SecureAuthCorp/impacket)

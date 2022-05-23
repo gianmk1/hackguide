@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources.md",
+            "file": "Utilities.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources.md",
+                "file": "Utilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "353ddf1c10006280",
   "lastOpenFiles": [
-    "Resources.md",
     "Utilities.md",
+    "Resources.md",
     "picoCTF - esercizi/Mind your Ps and Qs.md",
     "picoCTF - esercizi/GET aHEAD.md",
     "picoCTF - esercizi/Static ain't always noise.md",
