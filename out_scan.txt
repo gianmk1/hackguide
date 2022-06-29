@@ -1,0 +1,21 @@
+Starting Nmap 7.92 ( https://nmap.org ) at 2022-06-13 16:28 EDT
+Stats: 0:00:11 elapsed; 0 hosts completed (1 up), 1 undergoing Service Scan
+Service scan Timing: About 0.00% done
+Nmap scan report for 10.0.2.4
+Host is up (0.00034s latency).
+Not shown: 1021 filtered tcp ports (no-response)
+PORT    STATE  SERVICE  VERSION
+22/tcp  closed ssh
+80/tcp  open   http     Apache httpd
+|_http-server-header: Apache
+443/tcp open   ssl/http Apache httpd
+|_http-server-header: Apache
+MAC Address: 08:00:27:B9:9C:D1 (Oracle VirtualBox virtual NIC)
+Device type: general purpose
+Running: Linux 3.X|4.X
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+OS details: Linux 3.10 - 4.11
+Network Distance: 1 hop
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 19.88 seconds
